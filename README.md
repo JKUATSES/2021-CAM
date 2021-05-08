@@ -1,2 +1,5 @@
-# 2021-CAM
-This is Computer Aided Manufacturing for ses projects weekly meetings during the academic year 2021-2022
+# Computer Aided Manufacturing
+
+Computer Aided Manufacturing is the use of software and computer controlled machinery to automate manufacturing.
+
+If you want to bring your design to life with a high accuracy finish, then CAM is the way to go. 
