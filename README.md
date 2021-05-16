@@ -6,4 +6,4 @@ If you want to bring your design to life with a high accuracy finish, then CAM i
 
 We are going to make a CAD file and from a tubular billet machine the following workpiece.
 
-![3D Workpiece](img/3Dworkpiece)
+![3D Workpiece](img/3Dworkpiece.PNG)
