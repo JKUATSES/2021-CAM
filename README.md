@@ -42,11 +42,17 @@ Centre Drilling
 Intermidiate drilling operation
 
 ![FinalDrilling](img/largerDrill.PNG)\
-Facing operation\
+FInal Drilling 
   
-
 ![turning](img/turning.PNG)\
 Turning operation
+
+![Parting](img/parting.PNG)\
+Grooving operation
+
+![Parting Off](img/paritngOff.PNG)\
+Parting off operation
+
 
 
 
