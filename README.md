@@ -12,12 +12,31 @@ This is how our billet will look like
 
 For machining we require a 2D design of our part.
 
-In the CAD software we set our billet dimensions
-
 ![BilletDimensions](img/billetDimensions.PNG)
+
+Billet dimensions
+
+![Billet](img/billet.PNG)
 
 Billet appearance in the CAD software
 
-![Billet](img/billet.PNG)
+![Design](img/design.PNG)
+
+Our final design
+
+Generating a CAM wizard is our first CAM operation
+
+![materialselection](img/materialselection.PNG)
+
+Material Selection
+
+![toolpathGeneration](img/toolpathGeneration.PNG)
+
+Toolpath Generation
+
+![latheCNCfile](img/latheCNCfile.PNG)
+
+Postprocess - G and M codes generation
+
 
 
