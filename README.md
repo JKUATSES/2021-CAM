@@ -42,8 +42,9 @@ Centre Drilling
 Intermidiate drilling operation
 
 ![FinalDrilling](img/largerDrill.PNG)\
-Facing operation
-\
+Facing operation\
+  
+
 ![turning](img/turning.PNG)\
 Turning operation
 
