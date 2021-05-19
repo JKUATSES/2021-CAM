@@ -47,6 +47,7 @@ Turning operation
 ![Parting](img/parting.PNG)\
 Grooving operation
 <br/>
+<br/>
 ![Parting Off](img/partingOff.PNG)\
 Parting off operation
 
