@@ -50,7 +50,7 @@ Turning operation
 ![Parting](img/parting.PNG)\
 Grooving operation
 
-![Parting Off](img/paritngOff.PNG)\
+![Parting Off](img/partingOff.PNG)\
 Parting off operation
 
 
