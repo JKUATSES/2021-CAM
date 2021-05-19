@@ -8,35 +8,48 @@ We are going to make a CAD file and from a tubular billet machine the following 
 
 ![3D Workpiece](img/3Dworkpiece.PNG)
 
-This is how our billet will look like
+<!--This is how our billet will look like-->
 
 For machining we require a 2D design of our part.
 
 ![BilletDimensions](img/billetDimensions.PNG)
-
 Billet dimensions
 
 ![Billet](img/billet.PNG)
-
 Billet appearance in the CAD software
 
 ![Design](img/design.PNG)
-
 Our final design
 
 Generating a CAM wizard is our first CAM operation
 
 ![materialselection](img/materialselection.PNG)
-
 Material Selection
 
 ![toolpathGeneration](img/toolpathGeneration.PNG)
-
 Toolpath Generation
 
 ![latheCNCfile](img/latheCNCfile.PNG)
-
 Postprocess - G and M codes generation
+
+![facing](img/facing.PNG)
+Facing operation
+
+![centredrilling](img/centredrill.PNG)
+Centre Drilling
+
+![predrilling](img/smallerDrill.PNG)
+Intermidiate drilling operation
+
+![FinalDrilling](img/largerDrill.PNG)
+Facing operation
+
+![turning](img/turning.PNG)
+Turning operation
+
+![facing](img/facing.PNG)
+Facing operation
+
 
 
 
