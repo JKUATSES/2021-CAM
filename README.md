@@ -33,23 +33,22 @@ Toolpath Generation
 Postprocess - G and M codes generation
 
 
-![facing](img/facing.PNG)
+![facing](img/facing.PNG)\
 Facing operation
 
-![centredrilling](img/centredrill.PNG)
+![centredrilling](img/centredrill.PNG)\
 Centre Drilling
 
-![predrilling](img/smallerDrill.PNG)
+![predrilling](img/smallerDrill.PNG)\
 Intermidiate drilling operation
 
-![FinalDrilling](img/largerDrill.PNG)
+![FinalDrilling](img/largerDrill.PNG)\
 Facing operation
 
-![turning](img/turning.PNG)
+![turning](img/turning.PNG)\
 Turning operation
 
-![facing](img/facing.PNG)
-Facing operation
+
 
 
 
