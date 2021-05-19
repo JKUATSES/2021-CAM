@@ -15,9 +15,6 @@ For machining we require a 2D design of our part.
 ![BilletDimensions](img/billetDimensions.PNG)\
 Billet dimensions
 
-![Billet](img/billet.PNG)\
-Billet appearance in the CAD software
-
 ![Design](img/design.PNG)\
 Our final design
 
