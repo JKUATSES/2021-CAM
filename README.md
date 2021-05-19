@@ -32,6 +32,7 @@ Toolpath Generation
 ![latheCNCfile](img/latheCNCfile.PNG)
 Postprocess - G and M codes generation
 
+
 ![facing](img/facing.PNG)
 Facing operation
 
