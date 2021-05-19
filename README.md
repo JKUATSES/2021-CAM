@@ -14,8 +14,10 @@ For machining we require a 2D design of our part.
 
 In the CAD software we set our billet dimensions
 
-![BilletDimensions](img/billetDimensoins.PNG)
+![BilletDimensions](img/billetDimensions.PNG)
 
 Billet appearance in the CAD software
+
+![Billet](img/billet.PNG)
 
 
