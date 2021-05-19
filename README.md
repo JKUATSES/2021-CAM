@@ -31,7 +31,7 @@ Toolpath Generation
 
 ![latheCNCfile](img/latheCNCfile.PNG)\
 Postprocess - G and M codes generation
-/
+\
 ![facing](img/facing.PNG)\
 Facing operation
 
@@ -43,7 +43,7 @@ Intermidiate drilling operation
 
 ![FinalDrilling](img/largerDrill.PNG)\
 Facing operation
-/
+\
 ![turning](img/turning.PNG)\
 Turning operation
 
